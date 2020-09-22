@@ -6,8 +6,9 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a><br><br>
 
-Web制作できます！
+Web制作できます！<br>
 現在、WordPressのテーマ販売を行いたく、学習中です！
+
 よろしくお願いします！
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
