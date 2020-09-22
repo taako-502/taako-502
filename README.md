@@ -1,3 +1,14 @@
+### Hello there !!
+こんにちは、taakoです。
+
+↓↓フォローお願いします！<br>
+<a href="https://twitter.com/taakobiz">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a><br><br>
+
+WordPressのテーマ開発を学習中です！
+よろしくお願いします！
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=taako-502&count_private=true&show_icons=true" />
 </a>
