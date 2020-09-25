@@ -13,7 +13,7 @@ twitterのフォローお願いします！<br>
 </a><br><br>
 
 ▼ブログについて
-Taakoのブログ
+Taakoのブログ<br>
 https://taako-biz.com/
 
 ▼お仕事について
