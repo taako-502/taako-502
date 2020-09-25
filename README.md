@@ -1,22 +1,22 @@
 ### Hello there !!
 こんにちは、taakoです。
 
-札幌でエンジニアをしています。
+札幌でエンジニアをしています。<br>
 苫小牧高専、長岡技術科学大学出身です。
 
 現在、WordPressのテーマ販売に挑戦するため、学習中です！
 
-▼SNSについて
+#### ▼SNSについて
 twitterのフォローお願いします！<br>
 <a href="https://twitter.com/taakobiz">
   <img align="left" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a><br><br>
 
-▼ブログについて
+#### ▼ブログについて
 Taakoのブログ<br>
 https://taako-biz.com/
 
-▼お仕事について
+#### ▼お仕事について
 Web制作できます！<br>
 お仕事の依頼は、下記のURLからお願いします！<br>
 https://www.lancers.jp/menu/detail/153479?ref=profile
