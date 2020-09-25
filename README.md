@@ -10,7 +10,7 @@
 twitterのフォローお願いします！<br>
 <a href="https://twitter.com/taakobiz">
   <img align="left" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a><br><br>
+</a><br>
 
 #### ▼ブログについて
 Taakoのブログ<br>
