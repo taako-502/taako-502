@@ -9,8 +9,8 @@
 　⇒ [MY THEME](https://github.com/taako-502/mytheme)
 - Web制作
 　⇒ [ランサーズプロフィール](https://www.lancers.jp/profile/taako502?ref=header_menu)
-- ブログ
-　[Taakoのブログ]（https://taako-biz.com/）
+- ブログ<br>
+　⇒[Taakoのブログ](https://taako-biz.com/)
 
 ## スキル
 - Java
