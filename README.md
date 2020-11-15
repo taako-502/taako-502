@@ -24,7 +24,7 @@
   - [FLOCSS](https://github.com/hiloki/flocss)
 - JavaScript
   - jQuery
-- WordPress
+- WordPress(PHP)
   - AMP
   - Gutenberg
 
