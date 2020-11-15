@@ -26,7 +26,7 @@
   - Gutenberg
 
 ## ▼SNSについて
-twitterのフォローお願いします！<br>
+Twitterやってます<br><br>
 <a href="https://twitter.com/taakobiz">
   <img align="left" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a><br><br><br>
