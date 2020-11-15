@@ -29,11 +29,8 @@
 twitterのフォローお願いします！<br>
 <a href="https://twitter.com/taakobiz">
   <img align="left" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a><br> 
-　
-　
-　
-　
+</a><br><br><br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=taako-502&count_private=true&show_icons=true" />
 </a>
