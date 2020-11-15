@@ -20,8 +20,8 @@
 - VB.net
 - HTML
 - CSS/SCSS
-  - BEM
-  - FLOCSS
+  - [BEM](https://github.com/manabuyasuda/styleguide/blob/master/how-to-bem.md)
+  - [FLOCSS](https://github.com/hiloki/flocss)
 - JavaScript
   - jQuery
 - WordPress
