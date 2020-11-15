@@ -19,13 +19,13 @@
 - Java
 - VB.net
 - HTML
+  - AMP
 - CSS/SCSS
   - [BEM](https://github.com/manabuyasuda/styleguide/blob/master/how-to-bem.md)
   - [FLOCSS](https://github.com/hiloki/flocss)
 - JavaScript
   - jQuery
 - [WordPress(PHP)](https://github.com/WordPress/WordPress)
-  - AMP
   - [Gutenberg](https://github.com/WordPress/gutenberg)
 
 ## ▼SNSについて
