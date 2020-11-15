@@ -3,7 +3,7 @@
 高専出身、技大卒の札幌在住現役エンジニアです。
 
 ## やっていること
-フリーランスエンジニアを目指しつつ、副業でプログラミングを行っています。<br>
+副業でプログラミングを行っています。<br>
 現在、以下のことにチャレンジしてます。
 - WordPressのテーマ開発<br>
 　⇒ [MY THEME](https://github.com/taako-502/mytheme)
@@ -13,6 +13,7 @@
 　⇒[Taakoのブログ](https://taako-biz.com/)
 
 ## スキル
+現在実務で使用しているのがVB.netです。<br>
 - Java
 - VB.net
 - HTML+CSS
