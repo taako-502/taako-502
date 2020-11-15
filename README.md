@@ -24,9 +24,9 @@
   - [FLOCSS](https://github.com/hiloki/flocss)
 - JavaScript
   - jQuery
-- WordPress(PHP)
+- [WordPress(PHP)](https://github.com/WordPress/WordPress)
   - AMP
-  - Gutenberg
+  - [Gutenberg](https://github.com/WordPress/gutenberg)
 
 ## ▼SNSについて
 Twitterやってます<br><br>
