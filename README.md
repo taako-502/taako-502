@@ -1,25 +1,32 @@
-### Hello there !!
-こんにちは、taakoです。
+# Hello There!!
+こんにちは、taakoといいます。<br>
+高専出身、技大卒の札幌在住現役エンジニアです。
 
-札幌でエンジニアをしています。<br>
-苫小牧高専、長岡技術科学大学出身です。
+## やっていること
+フリーランスエンジニアを目指しつつ、副業でプログラミングを行っています。<br>
+現在、以下のことにチャレンジしてます。
+- WordPressのテーマ開発<br>
+　⇒ [MY THEME](https://github.com/taako-502/mytheme)
+- Web制作
+　⇒ [ランサーズプロフィール](https://www.lancers.jp/profile/taako502?ref=header_menu)
+- ブログ
+　[Taakoのブログ]（https://taako-biz.com/）
 
-現在、WordPressのテーマ販売に挑戦するため、学習中です！
+## スキル
+- Java
+- VB.net
+- HTML+CSS
+- JavaScript
+  - jQuery
+- WordPress
+  - SEO
+  - Gutenberg
 
-#### ▼SNSについて
+## ▼SNSについて
 twitterのフォローお願いします！<br>
 <a href="https://twitter.com/taakobiz">
   <img align="left" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a><br>
-
-#### ▼ブログについて
-Taakoのブログ<br>
-https://taako-biz.com/
-
-#### ▼お仕事について
-Web制作できます！<br>
-お仕事の依頼は、下記のURLからお願いします！<br>
-https://www.lancers.jp/menu/detail/153479?ref=profile
 
 よろしくお願いします！
 
