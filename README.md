@@ -16,8 +16,10 @@
 
 ## スキル
 現在実務（本業）で使用しているのはVB.netです。<br>
-- Java
-- VB.net
+- Programing
+  - Java
+  - VB.net
+  - PHP
 - HTML
   - AMP
 - CSS/SCSS
@@ -25,6 +27,7 @@
   - [FLOCSS](https://github.com/hiloki/flocss)
 - JavaScript
   - jQuery
+  - React
 - [WordPress(PHP)](https://github.com/WordPress/WordPress)
   - [Gutenberg](https://github.com/WordPress/gutenberg)
 
