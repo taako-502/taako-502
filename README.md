@@ -28,7 +28,7 @@
 - JavaScript
   - jQuery
   - React
-- [WordPress(PHP)](https://github.com/WordPress/WordPress)
+- [WordPress](https://github.com/WordPress/WordPress)
   - [Gutenberg](https://github.com/WordPress/gutenberg)
 
 ## ▼SNSについて
