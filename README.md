@@ -8,8 +8,7 @@
 副業でプログラミングを行っています。<br>
 現在、以下のことにチャレンジしてます。
 - WordPressのテーマ開発<br>
-　⇒ プログラム：[MY THEME](https://github.com/taako-502/mytheme)<br>
- 　　デモサイト：https://www.mytheme.taako-biz.com/
+　⇒ プログラム：[MY THEME](https://github.com/taako-502/mytheme)
 - Web制作<br>
 　⇒ [ランサーズプロフィール](https://www.lancers.jp/profile/taako502?ref=header_menu)
 - ブログ<br>
