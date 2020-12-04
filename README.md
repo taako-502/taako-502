@@ -20,6 +20,8 @@
   - Java
   - VB.net
   - PHP
+  - Python
+    - Scrapy
 - HTML
   - AMP
 - CSS/SCSS
