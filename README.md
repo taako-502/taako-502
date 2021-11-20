@@ -5,9 +5,9 @@
 WordPressのテーマ開発やってます。
 
 ## Twitter
-思ったことつぶやいてます。
+思ったことつぶやいてます。<br>
 https://twitter.com/taakobiz
 
 ## note
-副業に関する出来事を書いてます。
+副業に関する出来事を書いてます。<br>
 https://note.com/taako502
