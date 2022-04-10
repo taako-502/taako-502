@@ -9,5 +9,5 @@ WordPressのテーマ開発やってます。
 https://twitter.com/taakobiz
 
 ## note
-副業に関する出来事を書いてます。<br>
+仕事に関する出来事を書いてます。<br>
 https://note.com/taako502
