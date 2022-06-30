@@ -10,7 +10,7 @@ https://twitter.com/taakobiz
 仕事に関する出来事を書いてます。<br>
 https://note.com/taako502
 
-## 開発物
+## 成果物
 WordPressテーマ「HEPERE」<br>
 https://hepere.com/<br>
 
