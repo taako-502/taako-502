@@ -1,5 +1,5 @@
 # Hello There!!
-I am Takao.<br>
+I am Takao. I am from Japan.<br>
 
 ## Twitter
 https://twitter.com/taakobiz
