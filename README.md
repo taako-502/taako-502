@@ -7,7 +7,7 @@ https://twitter.com/taakobiz
 ## note
 https://note.com/taako502
 
-## 成果物
+## Output
 WordPress Theme「HEPERE」<br>
 https://hepere.com/<br>
 
