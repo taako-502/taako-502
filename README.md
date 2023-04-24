@@ -2,7 +2,7 @@
 I am Takao. I am from Japan.<br>
 
 ## Twitter
-https://twitter.com/taakobiz
+https://twitter.com/tak__ao
 
 ## note
 https://note.com/taako502
