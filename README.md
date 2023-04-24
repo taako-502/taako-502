@@ -4,9 +4,6 @@ I am Takao. I am from Japan.<br>
 ## Twitter
 https://twitter.com/tak__ao
 
-## note
-https://note.com/taako502
-
 ## Output
 WordPress Theme「HEPERE」<br>
 https://hepere.com/<br>
