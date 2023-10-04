@@ -1,6 +1,9 @@
 # Hello There!!
 I am Takao. I am from Japan.<br>
 
+## Blog
+https://ap-ep.com/
+
 ## Twitter
 https://twitter.com/tak__ao
 
