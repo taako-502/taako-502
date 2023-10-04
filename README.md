@@ -1,11 +1,14 @@
 # Hello There!!
-I am Takao. I am from Japan.<br>
+I am Takao. I am from Japan. I live in Egypt.<br>
 
 ## Blog
 https://ap-ep.com/
 
-## Twitter
+## X
 https://twitter.com/tak__ao
+
+## Treads
+https://www.threads.net/@_yamamoto_takao
 
 ## Output
 WordPress Theme「HEPERE」<br>
