@@ -4,6 +4,11 @@ I am Takao. I am from Japan. I live in Egypt.<br>
 ## Blog
 https://ap-ep.com/
 
+## NAKITH
+NFT game market research application.
+
+https://nakith.com/
+
 ## X
 https://twitter.com/tak__ao
 
