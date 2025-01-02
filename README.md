@@ -9,9 +9,6 @@ NFT game market research application.
 
 https://nakith.com/
 
-## X
-https://twitter.com/tak__ao
-
 ## Treads
 https://www.threads.net/@_yamamoto_takao
 
