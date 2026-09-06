@@ -1,20 +1,19 @@
 # Hello There!!
-I am Takao. I am from Japan.<br>
+I am Takao.<br>
+Software Developer. From Japan 🇯🇵.
 
-## Blog
+## 👨‍💻 Blog
 https://ap-ep.com/
 
-## NAKITH
+## 📸 Treads
+My Photos with Fujifilm X-M5.
+https://www.threads.net/@_yamamoto_takao
+
+## 🎮 NAKITH
 NFT game market research application.
 
 https://nakith.com/
 
-## Treads
-https://www.threads.net/@_yamamoto_takao
-
-## Output
-WordPress Theme「HEPERE」<br>
-https://hepere.com/<br>
-
+## 📚 Output
 WordPress Plugin「Custom Card Link」<br>
 https://wordpress.org/plugins/custom-card-link/
