@@ -1,8 +1,6 @@
 <img src="assets/profile-banner.png" alt="Takao — Backend software engineer. Go, databases, and observability." width="1280">
 
-I'm a backend software engineer based in Japan. I mostly work in Go, build small experiments to see how systems behave, and write about what I learn in Japanese.
-
-[Technical blog](https://ap-ep.com/) · [Photography](https://www.threads.net/@_yamamoto_takao)
+I'm a backend software engineer based in Japan. I primarily work with Go.
 
 ## Selected projects
 
@@ -18,3 +16,5 @@ I'm a backend software engineer based in Japan. I mostly work in Go, build small
 - [SlotPick](https://github.com/taako-502/slotpick) · A macOS app that turns calendar availability into meeting-time suggestions.
 - [Custom Card Link](https://wordpress.org/plugins/custom-card-link/) · A WordPress plugin for link cards.
 - [NAKITH](https://nakith.com/) · A market research app for NFT games.
+
+[Blog](https://ap-ep.com/) · [Photography](https://www.threads.net/@_yamamoto_takao)
